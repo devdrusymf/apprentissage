@@ -30,7 +30,7 @@ function Division()
 }
 
 var chaine = 'chaine de caractère';
-    chaine
+    chaine.an
 
 switch (operateur) {
     case '+':
